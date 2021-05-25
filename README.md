@@ -8,4 +8,4 @@ Assignment 1: Convolutions using Gaussian, median, Laplacian filters for noise r
 Assignemet 2: Camera Calibration, Harris Corner Detection, Image Stiching/Panaroma
 
 
-Term Project: Density map estimation by U-Net segmentation model for crowd counting
+Project: Density map estimation by U-Net segmentation model for crowd counting
